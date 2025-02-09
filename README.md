@@ -1,0 +1,2 @@
+<h1>LIBFT 42 PROJECT</h1>
+This project involves implementing a custom version of essential C library functions, such as string manipulation, memory management, and data conversion, to create a static library (libft.a). It covers functions like ft_strlen, ft_memcpy, and ft_atoi, focusing on low-level programming, memory handling, and efficient code design. The project follows strict coding standards and prepares for more advanced system-level programming tasks.
